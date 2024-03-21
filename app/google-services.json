@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467352856116",
+    "project_id": "chatapp-bc5bf",
+    "storage_bucket": "chatapp-bc5bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467352856116:android:7422440573298c6f92cc61",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbirACVyATRig006g02szUGE-pkmX5K6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
